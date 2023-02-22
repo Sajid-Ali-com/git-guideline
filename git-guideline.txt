@@ -1,0 +1,12 @@
+1-Create repository in hithub account
+2-Create readme file
+3-Copy link
+
+4-go cmd
+
+5-$ git clone https://github.com/Sajid-Ali-com/Javascript-Tasks.git
+6-//check folder name
+7-git status
+8-git add .
+9-git commit -m "Type msg here"
+10-git push
