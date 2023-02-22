@@ -1,4 +1,4 @@
-1-Create repository in hithub account
+1-Create repository in github account
 2-Create readme file
 3-Copy link
 
