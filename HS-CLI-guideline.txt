@@ -1,0 +1,16 @@
+npm install -g @hubspot/cli@latest
+
+hs init
+
+after it we need to copy the key and it will be past by right click and after it needs to add the project name which you want.
+
+After it We need to fetch the code from live portal
+
+hs fetch "CompTech 2021"
+
+watch means if you are working on that files after watch command files will auto updated on HS portal
+hs watch "CompTech 2021" "CompTech 2021"
+
+hs upload "local folder name" "HS portal folder name"
+
+Here from we can check the rest of things according to the requirements. https://developers.hubspot.com/docs/cms/developer-reference/local-development-cli
